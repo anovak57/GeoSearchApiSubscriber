@@ -1,6 +1,6 @@
 ﻿# GeoSearchApiSubscriber
 
-GeoSearchApi Subscriber is a simple console application used for testing real time updates coming from `https://github.com/anovak57/GeoSearch`
+GeoSearchApi Subscriber is a simple console application used for testing real time updates coming from https://github.com/anovak57/GeoSearch
 
 After running the application - every request to fetch locations by the GeoSearch Api should notify this client.
 
